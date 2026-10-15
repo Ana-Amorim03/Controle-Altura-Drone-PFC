@@ -11,7 +11,11 @@ A planta é um quadricóptero preso a hastes-guia, de modo que apenas o moviment
 
 ## Demonstração
 
-https://github.com/user-attachments/assets/8ba68ec8-f6cf-41ca-8971-857c6281670
+https://github.com/user-attachments/assets/7d6eea6d-5daa-4aff-b3e0-1e814ed6d697
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/767cda02-7caa-41b4-9438-a903681bc102" alt="Controle de altura com distúrbio" width="270">
+</p>
 
 ## Hardware
 
