@@ -11,7 +11,9 @@ A planta é um quadricóptero preso a hastes-guia, de modo que apenas o moviment
 
 ## Demonstração
 
-https://github.com/user-attachments/assets/8ba68ec8-f6cf-41ca-8971-857c62816700
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/8ba68ec8-f6cf-41ca-8971-857c62816700" width="320" controls muted></video>
+</p>
 
 ## Hardware
 
