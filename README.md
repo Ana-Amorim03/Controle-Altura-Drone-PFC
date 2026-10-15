@@ -4,8 +4,10 @@ Códigos do Projeto de Fim de Curso **"Desenvolvimento de uma Planta Didática p
 
 A planta é um quadricóptero preso a hastes-guia, de modo que apenas o movimento vertical é livre. A altura é controlada por um PI, executado a 250 Hz em um ESP32.
 
-<img width="4110" height="4532" alt="Planta_lateral" src="https://github.com/user-attachments/assets/6b196af2-96ec-4509-a170-4629493a1403" />
-<img width="2576" height="2471" alt="Drone_superior_2" src="https://github.com/user-attachments/assets/97ae9be8-c970-45fb-9eb1-03cd7a5c9ae9" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b196af2-96ec-4509-a170-4629493a1403" alt="Planta, vista lateral" width="320">
+  <img src="https://github.com/user-attachments/assets/97ae9be8-c970-45fb-9eb1-03cd7a5c9ae9" alt="Drone, vista superior" width="320">
+</p>
 
 
 ## Hardware
