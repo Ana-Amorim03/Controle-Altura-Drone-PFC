@@ -9,6 +9,9 @@ A planta é um quadricóptero preso a hastes-guia, de modo que apenas o moviment
   <img src="https://github.com/user-attachments/assets/97ae9be8-c970-45fb-9eb1-03cd7a5c9ae9" alt="Drone, vista superior" width="360">
 </p>
 
+## Demonstração
+
+https://github.com/user-attachments/assets/8ba68ec8-f6cf-41ca-8971-857c62816700
 
 ## Hardware
 
