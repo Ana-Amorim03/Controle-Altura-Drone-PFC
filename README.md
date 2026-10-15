@@ -13,10 +13,6 @@ A planta é um quadricóptero preso a hastes-guia, de modo que apenas o moviment
 
 https://github.com/user-attachments/assets/7d6eea6d-5daa-4aff-b3e0-1e814ed6d697
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/767cda02-7caa-41b4-9438-a903681bc102" alt="Controle de altura com distúrbio" width="360">
-</p>
-
 ## Hardware
 
 - ESP32
