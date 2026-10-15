@@ -6,7 +6,7 @@ A planta é um quadricóptero preso a hastes-guia, de modo que apenas o moviment
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b196af2-96ec-4509-a170-4629493a1403" alt="Planta, vista lateral" width="320">
-  <img src="https://github.com/user-attachments/assets/97ae9be8-c970-45fb-9eb1-03cd7a5c9ae9" alt="Drone, vista superior" width="320">
+  <img src="https://github.com/user-attachments/assets/97ae9be8-c970-45fb-9eb1-03cd7a5c9ae9" alt="Drone, vista superior" width="360">
 </p>
 
 
